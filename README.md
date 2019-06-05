@@ -7,4 +7,5 @@ A Python Script that generates as well as solves a valid unique 9*9 sudoku every
 # User Interface
 ![Img1](https://github.com/0110G/Sudoku_Generator/blob/master/Images/Screenshot%20from%202019-06-05%2014-28-12.png)
 ![Img2](https://github.com/0110G/Sudoku_Generator/blob/master/Images/Screenshot%20from%202019-06-05%2014-29-35.png)
+![Img3](https://github.com/0110G/Sudoku_Generator/blob/master/Images/Screenshot%20from%202019-06-05%2014-37-42.png)
 
